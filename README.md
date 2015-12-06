@@ -28,7 +28,7 @@ Esto es una aplicación que renombra los archivos en una carpeta de manera que n
 ## Unix (No testeado en OS X)<a id="orgheadline2"></a>
 
 1.  git clone <https://github.com/Ironjanowar/Java-projects.git>
-2.  cd ForUnix
+2.  cd Java-projects/ForUnix
 3.  Generar archivo .class para ejecutar la aplicación:
 4.  javac clearFiles.java
 
@@ -47,5 +47,6 @@ Esto es una aplicación que renombra los archivos en una carpeta de manera que n
 
 ## Windows<a id="orgheadline6"></a>
 
-1.  Llevar el archivo .jar a la carpeta que se desee.
-2.  Doble click sobre el archivo .jar
+1.  Entrar en la carpeta ForWindows
+2.  Llevar el archivo .jar a la carpeta que se desee.
+3.  Doble click sobre el archivo .jar
