@@ -1,0 +1,19 @@
+#+Title: Esto es una aplicación que renombra los archivos en una carpeta de manera que no tengan caracteres extraños.
+* Instalación
+** Unix (No testeado en OS X)
+1. git clone https://github.com/Ironjanowar/Java-projects.git
+2. cd ForUnix
+3. Generar archivo .class para ejecutar la aplicación: 
++ javac clearFiles.java
+
+** Windows
+1. Descargar .zip de GitHub https://github.com/Ironjanowar/Java-projects
+2. Extraer los archivos del .zip
+* Uso
+** Unix (No testeado en OS X)
+1. Mover clearFiles.class a la carpeta que se desee.
+2. Ejecutar el .class:
++ java clearFiles
+** Windows
+1. Llevar el archivo .jar a la carpeta que se desee.
+2. Doble click sobre el archivo .jar
